@@ -1,4 +1,4 @@
-<img align="center" alt="LikeTerminator" src="https://conteudo.imguol.com.br/2013/03/20/montagem-do-tumblr-thumbs--ammo-mostra-o-personagem-terminator-arnold-schwarzenegger-dando-joinha-em-vez-de-apontar-uma-arma-em-cena-do-filme-o-exterminador-do-futuro-1363809846474_615x300.jpg">
+<img align="center" alt="LikeTerminator" src="[https://conteudo.imguol.com.br/2013/03/20/montagem-do-tumblr-thumbs--ammo-mostra-o-personagem-terminator-arnold-schwarzenegger-dando-joinha-em-vez-de-apontar-uma-arma-em-cena-do-filme-o-exterminador-do-futuro-1363809846474_615x300.jpg](https://www.digitaltrends.com/wp-content/uploads/2023/01/Goodbye-_-Terminator-2-Remastered-4-11-screenshot.jpg?fit=720%2C298&p=1)">
 
 ## Hi Devs 👋
 
