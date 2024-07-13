@@ -2,7 +2,7 @@
 
 ## Hi Devs 👋
 
-Olá! Eu sou o Mateus e sou formado em Sistemas de Informação com uma paixão profunda em tecnologias de desenvolvimento de jogos e tecnologias full stack. Com experiência em Unity3D, C#, Angular, React, HTML, CSS, JavaScript, e Svelte, estou sempre em busca de oportunidades para criar soluções inovadoras e envolventes.
+Olá! Eu sou o Mateus e sou formado em Sistemas de Informação com uma paixão profunda em tecnologias de desenvolvimento de jogos e tecnologias full stack. Com experiência em Unity3D, C#, Angular, React, HTML, CSS, JavaScript, MySQL, Arduino e Svelte, estou sempre em busca de oportunidades para criar soluções inovadoras e envolventes.
 
 ## Objetivo
 Meu objetivo de vida é me tornar um game developer, criando experiências únicas e emocionantes no mundo dos jogos. Ao mesmo tempo, estou aberto a oportunidades de trabalho em desenvolvimento full stack, onde posso aplicar minhas habilidades técnicas e criatividade para entregar soluções robustas e eficientes.
@@ -18,6 +18,8 @@ Atualmente, estou focado em expandir meus conhecimentos e habilidades através d
 ## Tecnologias que tenho experiência profissional e pessoal:
 
 <div>
+
+  <img align="center" alt="Mateus-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>
   <img align="center" alt="Mateus-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Mateus-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img align="center" alt="Mateus-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
