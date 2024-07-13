@@ -1,3 +1,5 @@
+<img align="center" alt="LikeTerminator" src="https://conteudo.imguol.com.br/2013/03/20/montagem-do-tumblr-thumbs--ammo-mostra-o-personagem-terminator-arnold-schwarzenegger-dando-joinha-em-vez-de-apontar-uma-arma-em-cena-do-filme-o-exterminador-do-futuro-1363809846474_615x300.jpg">
+
 ## Hi Devs 👋
 
 Olá! Eu sou o Mateus e sou formado em Sistemas de Informação com uma paixão profunda em tecnologias de desenvolvimento de jogos e tecnologias full stack. Com experiência em Unity3D, C#, Angular, React, HTML, CSS, JavaScript, e Svelte, estou sempre em busca de oportunidades para criar soluções inovadoras e envolventes.
@@ -13,6 +15,8 @@ Edição de Vídeos e Social Media: Habilidades avançadas em edição de vídeo
 ## O Que Estou Fazendo Atualmente
 Atualmente, estou focado em expandir meus conhecimentos e habilidades através de projetos pessoais e colaborativos. Sempre à procura de novos desafios que me permitam crescer profissionalmente e contribuir para projetos significativos.
 
+## Tecnologias que tenho experiência profissional e pessoal:
+
 <div>
   <img align="center" alt="Mateus-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Mateus-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
@@ -26,7 +30,7 @@ Atualmente, estou focado em expandir meus conhecimentos e habilidades através d
   <img align="center" alt="Mateus-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">          
 </div>
 
-## 
+## Quer falar comigo? É só me chamar no linkedin ou no discord =) 
 
 <a href="https://www.linkedin.com/in/mateus-alcantara-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <a href="https://discord.gg/RxZZFRYHpS" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
