@@ -1,7 +1,17 @@
 ## Hi Devs 👋
 
-- 🔭 I’m currently looking for work
-- 🌱 I’m currently learning React and Node.JS
+Olá! Eu sou o Mateus e sou formado em Sistemas de Informação com uma paixão profunda em tecnologias de desenvolvimento de jogos e tecnologias full stack. Com experiência em Unity3D, C#, Angular, React, HTML, CSS, JavaScript, e Svelte, estou sempre em busca de oportunidades para criar soluções inovadoras e envolventes.
+
+## Objetivo
+Meu objetivo de vida é me tornar um game developer, criando experiências únicas e emocionantes no mundo dos jogos. Ao mesmo tempo, estou aberto a oportunidades de trabalho em desenvolvimento full stack, onde posso aplicar minhas habilidades técnicas e criatividade para entregar soluções robustas e eficientes.
+
+## Experiência
+Desenvolvimento Full Stack: Criação de aplicações web completas usando tecnologias modernas de front-end e back-end.
+Desenvolvimento de Jogos: Utilização do Unity3D para desenvolver jogos interativos e envolventes.
+Edição de Vídeos e Social Media: Habilidades avançadas em edição de vídeos e gerenciamento de mídias sociais.
+
+## O Que Estou Fazendo Atualmente
+Atualmente, estou focado em expandir meus conhecimentos e habilidades através de projetos pessoais e colaborativos. Sempre à procura de novos desafios que me permitam crescer profissionalmente e contribuir para projetos significativos.
 
 <div>
   <img align="center" alt="Mateus-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
